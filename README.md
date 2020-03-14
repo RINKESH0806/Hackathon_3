@@ -10,5 +10,5 @@ The file train.csv has 3 columns
 
 tweet_id - Unique id for tweets. tweet - Tweet about the brand/product sentiment - 0: Negative, 1: Neutral, 2: Positive, 3: Can't Tell
 
-## Evaluation metric: <br/>
+## Evaluation Metric: <br/>
 We will be using ‘weighted’ F1-measure as the evaluation metric for this competition.
